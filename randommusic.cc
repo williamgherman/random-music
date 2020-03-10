@@ -92,7 +92,7 @@ int main()
 
 
     out << "\\version \"2.18.2\"\n"
-           "\\header {\ntitle = \"Techniques Worksheet 9\"\n"
+           "\\header {\ntitle = \"Generated Music\"\n"
            "composer = \"William Gherman\"\n}\n"
            "global= {\n\\numericTimeSignature\n\\time 4/4\n\\key c \\major\n}\n"
 
